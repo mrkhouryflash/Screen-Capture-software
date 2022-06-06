@@ -10,7 +10,7 @@ currently being supported with security updates.
 | 1       | :x:                |
 | 1.1     | :x:                |
 | 4.0.x   | :x:                |
-| recent  | ✅:                |
+| recent  | ✅                |
 
 ## Reporting a Vulnerability
 
